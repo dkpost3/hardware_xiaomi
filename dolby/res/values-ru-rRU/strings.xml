@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2023-24 Paranoid Android
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+
+    <!-- Dolby Atmos -->
+    <string name="dolby_title">Dolby Atmos</string>
+    <string name="dolby_enable">Использовать Dolby Atmos</string>
+    <string name="dolby_profile_title">Выбрать профиль</string>
+    <string name="dolby_preset">Настройки эквалайзера</string>
+    <string name="dolby_off">Выкл.</string>
+    <string name="dolby_on">Вкл.</string>
+    <string name="dolby_low">Низкий</string>
+    <string name="dolby_medium">Средний</string>
+    <string name="dolby_high">Высокий</string>
+    <string name="dolby_max">Максимальный</string>
+    <string name="dolby_unknown">Неизвестно</string>
+    <string name="dolby_on_with_profile">Вкл. (%1$s)</string>
+    <string name="dolby_category_settings">Настройки</string>
+    <string name="dolby_bass_enhancer">Усилитель Басов</string>
+    <string name="dolby_dialogue_enhancer">Усиление диалогов</string>
+    <string name="dolby_spk_virtualizer">Виртуализация динамиков</string>
+    <string name="dolby_hp_virtualizer">Виртуализация наушников</string>
+    <string name="dolby_stereo_widening">Расширение стерео</string>
+    <string name="dolby_volume_leveler">Регулятор громкости</string>
+    <string name="dolby_connect_headphones">Подключение наушников</string>
+    <string name="dolby_reset_profile">Сброс</string>
+    <string name="dolby_reset_profile_toast">Настройки для профиля %1$s успешно сброшены</string>
+
+    <!-- Dolby profiles -->
+    <string name="dolby_profile_dynamic">Динамический</string>
+    <string name="dolby_profile_video">Фильм/Видео</string>
+    <string name="dolby_profile_music">Музыка</string>
+    <string name="dolby_profile_voice">Голос</string>
+
+    <!-- Dolby equalizer presets -->
+    <string name="dolby_preset_default">По умолчанию</string>
+    <string name="dolby_preset_rock">Рок</string>
+    <string name="dolby_preset_jazz">Джаз</string>
+    <string name="dolby_preset_pop">Поп</string>
+    <string name="dolby_preset_classical">Классическая</string>
+    <string name="dolby_preset_hiphop">Хип-хоп</string>
+    <string name="dolby_preset_blues">Блюз</string>
+    <string name="dolby_preset_electronic">Электро</string>
+    <string name="dolby_preset_country">Кантри</string>
+    <string name="dolby_preset_dance">Танцевальная</string>
+    <string name="dolby_preset_metal">Метал</string>
+</resources>
